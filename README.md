@@ -14,6 +14,7 @@ VARIABLE  NEXT_PUBLIC_WEATHER_KEY
 First, run the development server:
 
 ```bash
+npm install
 npm run dev
 # or
 yarn dev
