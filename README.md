@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+<img width="1323" alt="image" src="https://github.com/user-attachments/assets/c2941896-b325-4b28-8284-4ff24625a8f2" />
+
+<img width="406" alt="image" src="https://github.com/user-attachments/assets/908ee283-284f-45d4-a222-fb796065b3ed" />
+
 ## Deploy URL
 https://weather-fcth4j9pj-engelsprado7s-projects.vercel.app/
 ## Config
